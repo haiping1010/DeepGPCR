@@ -10,6 +10,7 @@ conda activate geometric
 python read_smi_protein_nnn_pos.py
 
 2. run the prediction
+##unzip full_model_out2000.rar file and put the full_model_out2000.model in the main folder.
 python training_nn3_load_name.py
 
 
