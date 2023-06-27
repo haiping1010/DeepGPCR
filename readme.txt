@@ -1,4 +1,4 @@
-0. Install Python libraries needed
+#0. Install Python libraries needed
 
 ###The python environment is exact same as GraphDTA(https://github.com/thinng/GraphDTA)
 
@@ -15,3 +15,4 @@ python training_nn3_load_name.py
 
 
 ####nohup.out_MCC is the log file, and output_f.txt is the collected information by runing "python  read_out.py"
+This work3_VS_n_general_O14626_gcn_BC_cutoff0.6_upload.zip is a example of screening chemdiv dataase for O14626, but we only provided few compound smiles, beause whole chemdiv is too large to deposite in github. User can prepare their all dataset using this code for large scale virtual screening.
